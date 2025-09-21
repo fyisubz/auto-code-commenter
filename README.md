@@ -2,16 +2,6 @@
 
 An AI-powered tool that automatically adds meaningful, context-aware comments to source code using advanced language models. Features an intuitive Gradio web interface, OpenAI/Grok API integration, and intelligent code analysis for efficient documentation generation and learning assistance.
 
-## 📱 Application Screenshots
-
-### Main Interface
-![Main Interface](screenshots/main-interface.png)
-*Clean web interface with code input area, processing controls, and comprehensive comment generation system*
-
-### Code Analysis Results
-![Code Analysis](screenshots/code-analysis.png) 
-*Interactive display showing original code alongside AI-generated comments with syntax highlighting*
-
 ## ✨ Features
 
 ### 💼 Core Functionality
